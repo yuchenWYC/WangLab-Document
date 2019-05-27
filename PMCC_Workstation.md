@@ -22,6 +22,3 @@ Although the 4 workstations are not connected, they do have a shared package fol
  - **Current package**: Anaconda2, Anaconda3
  - **Sample Usage**: For example to use Anaconda3, you can type: `source /pkgs/scripts/use-anaconda3.sh`. It is recommended that you should create specific environment for each project you are working on.
  - **Anaconda Tutorial**: https://docs.conda.io/projects/conda/en/latest/user-guide/index.html
-
- ## How to add printer
- (to be added)
